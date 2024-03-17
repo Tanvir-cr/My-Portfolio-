@@ -86,7 +86,8 @@ section{
     width: 30vw;
     filter: drop-shadow(0.30rem 0.30rem 0.8rem #0ef);
     pointer-events: none;
-    
+    margin-top: 20px;
+    border-radius: 20px;
 }
 
 .home-content h3{
@@ -153,8 +154,9 @@ span{
     background: var(--second-bg-color);
 }
 .about-img{
-    width: 35vw;  
+    filter: drop-shadow(0.1rem 0.1rem 0.8rem rgba(0, 217, 255, 0.942));
     pointer-events: none;
+    margin-bottom: 20px;
 }
 .heading{
     text-align: center;
