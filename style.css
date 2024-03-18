@@ -430,6 +430,7 @@ span{
         width: 70vw;
         margin-top: 4rem;
         pointer-events: none;
+        padding-right: 20px;
     }
     .Skill h2{
       margin-bottom: 3rem;
